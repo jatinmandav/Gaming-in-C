@@ -1,0 +1,12 @@
+Now that you are reading this text file, it means you have unzipped 
+the folder (If not then Unzip it!)
+
+An Important Note: 
+Do not delete any file from the folder, It may lead to unusual execution 
+of the game, which may lead to unsatisfactory expireince!
+
+To Play The Game, Copy the folder to your desired location.
+
+Open the '.exe' file (chess.exe) by Double-Clicking or Right-Click and 'Open'
+
+Enjoy the Game!
