@@ -1,6 +1,7 @@
 # Gaming-in-C
 
 Here you can find the source code to all the games I made in C language.
+
 Details about the Games can be found on my Blog : https://jatinmandav.wordpress.com/
 
 ## List of Games
