@@ -1,0 +1,45 @@
+Welcome To The Epic Game Of Chess!
+
+
+
+This is a Two Player Game, Where the two players are both users!
+
+
+
+How To Play : 
+
+Player whose turn comes, need to give the index(or coordinates) of the piece which he wishes to move.
+
+Then on hitting 'ENTER', next promt comes in which the player needs to enter the coordintes of the position he wishes 
+to move it.
+
+Ex : If Player1 wants to move pawn one step ahead
+
+Input1 : B2
+
+Input2 : C2
+
+
+
+This will move the pawn from 'B2' to 'C2'!
+
+
+The same goes with all other pieces.
+
+
+If the coordinate matches with the rules of chess, the piece will move or else it will not.
+
+If you wish to perform castling, give "CASTLING" as input and then the position of the rook!
+
+At any point during the game if any player wants to surrender, he can give 'surrender' as input,
+
+And the opposite player will win the game!
+
+
+
+Also if user wants to draw the game, he/she can give 'DRAW' as input and if opposite player also agrees with the settlement,
+
+The Game will be Draw!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ENJOY THE GAME  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

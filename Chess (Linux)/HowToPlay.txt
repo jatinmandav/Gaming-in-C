@@ -1,0 +1,34 @@
+WELCOME TO THE EPIC GAME OF CHESS!
+
+
+
+Save this complete folder in any directory on your system.
+
+
+
+Navigate your self to the directory through terminal using the command: cd filepath
+
+
+where 'filepath' is the path for the directory form the Home Directory.
+
+
+
+Open the terminal
+
+
+
+Execute the Following Command on the command line:
+
+
+make chess (Hit Enter)
+
+./chess (On next promt and then Hit Enter)
+
+
+
+Enjoy The Game!!
+
+
+
+PS - You Would Not Want To Delete any file! 
+Deleting may lead to unsatisfactory experience!
